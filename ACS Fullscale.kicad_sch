@@ -292,6 +292,36 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 107.95 92.71) (xy 107.95 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "232503e1-fc0d-439f-a2b4-e5b7ec502bc8")
+	)
+	(wire
+		(pts
+			(xy 130.81 55.88) (xy 130.81 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "239a5282-e6fb-48dc-aa79-9b377519e789")
+	)
+	(wire
+		(pts
+			(xy 107.95 83.82) (xy 130.81 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec92f682-0cb4-4e38-b14e-1f32a59a9e07")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 151.13 90.17 0)
