@@ -4610,10 +4610,6 @@
 		(uuid "2b223ae4-4cee-42a5-9008-744d31afe007")
 	)
 	(no_connect
-		(at 121.92 125.73)
-		(uuid "2c8544d8-fe3b-4b5e-b6a9-fb8c35ed54cb")
-	)
-	(no_connect
 		(at 187.96 96.52)
 		(uuid "2e635a2f-c589-46a1-bb50-cb1313bde45a")
 	)
@@ -5193,26 +5189,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 138.43) (xy 144.78 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "414bca8b-a738-4897-93dd-078ccd0aee65")
-	)
-	(wire
-		(pts
-			(xy 121.92 123.19) (xy 137.16 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41e8df02-555f-4680-b419-8b1455a9d734")
-	)
-	(wire
-		(pts
 			(xy 26.67 118.11) (xy 36.83 118.11)
 		)
 		(stroke
@@ -5390,16 +5366,6 @@
 			(type default)
 		)
 		(uuid "67568184-6d80-4b62-a6b3-d3b078384763")
-	)
-	(wire
-		(pts
-			(xy 96.52 134.62) (xy 96.52 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a3ab496-18c4-4a01-aa0c-ecf1913edb0b")
 	)
 	(wire
 		(pts
@@ -5730,16 +5696,6 @@
 			(type default)
 		)
 		(uuid "9d4c10b8-22c0-4c57-8d4b-c3622be431c4")
-	)
-	(wire
-		(pts
-			(xy 121.92 123.19) (xy 121.92 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f409a5c-0a93-4302-91e7-c9aaac93e9e6")
 	)
 	(wire
 		(pts
@@ -6113,16 +6069,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 134.62) (xy 96.52 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd3c49d5-998a-458b-9ec3-f8d9486134bb")
-	)
-	(wire
-		(pts
 			(xy 80.01 167.64) (xy 82.55 167.64)
 		)
 		(stroke
@@ -6130,16 +6076,6 @@
 			(type default)
 		)
 		(uuid "dfb0e824-3145-4ac5-aeae-a934f6a220b4")
-	)
-	(wire
-		(pts
-			(xy 144.78 137.16) (xy 144.78 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0352b89-46df-4092-90b3-095665232092")
 	)
 	(wire
 		(pts
@@ -6170,16 +6106,6 @@
 			(type default)
 		)
 		(uuid "e37f6652-4bb3-4fe1-b082-5205ae62e978")
-	)
-	(wire
-		(pts
-			(xy 104.14 132.08) (xy 104.14 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3c7f6e5-6571-43ff-9ec7-16db2dae615a")
 	)
 	(wire
 		(pts
