@@ -14116,7 +14116,7 @@
 		(end 190.365 95.385)
 		(stroke
 			(width 0.2)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
