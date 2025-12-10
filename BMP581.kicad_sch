@@ -5,7 +5,7 @@
 	(uuid "b741ec28-050a-42e6-9b98-ea131581c038")
 	(paper "A4")
 	(lib_symbols
-		(symbol "2025-10-01_18-19-23:BMP581"
+		(symbol "ACS_symbol_Library:BMP581"
 			(pin_names
 				(offset 0.254)
 			)
@@ -28,7 +28,7 @@
 					)
 				)
 			)
-			(property "Footprint" "bmp581:QFN10_BMP581_BOS"
+			(property "Footprint" "ACS_Footprint_Library:QFN10_BMP581_BOS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1088,6 +1088,100 @@
 		)
 	)
 	(symbol
+		(lib_id "ACS_symbol_Library:BMP581")
+		(at 144.78 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e9966db-e527-4a41-b296-a8c520a234af")
+		(property "Reference" "U8"
+			(at 165.1 68.58 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "BMP581"
+			(at 165.1 71.12 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "ACS_Footprint_Library:QFN10_BMP581_BOS"
+			(at 144.78 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "BMP581"
+			(at 144.78 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8697788b-ec14-47ac-9682-b7324d7334c5")
+		)
+		(pin "6"
+			(uuid "110f95f5-6a19-4ef9-b118-abf4fa549c81")
+		)
+		(pin "5"
+			(uuid "8f0a111b-4f81-4f19-aaaf-560fba7cb2e6")
+		)
+		(pin "4"
+			(uuid "f9f436d2-24db-4679-8b9f-d15c01d0c66a")
+		)
+		(pin "2"
+			(uuid "edcf1a70-2e43-47f8-805e-afe3ed41aa47")
+		)
+		(pin "7"
+			(uuid "a106d28f-985b-4126-be47-8ab0539d8f0a")
+		)
+		(pin "8"
+			(uuid "8f0badec-e530-42d9-897e-55ccdc401c85")
+		)
+		(pin "9"
+			(uuid "899fed6f-6e3b-4d75-b49e-d3da7b23604f")
+		)
+		(pin "10"
+			(uuid "1ed2e931-48ed-475b-b1d9-93d2e023555a")
+		)
+		(pin "3"
+			(uuid "faf7352f-fea4-47d6-bb3b-73e6f5f6adaa")
+		)
+		(instances
+			(project ""
+				(path "/51f244b9-9601-4f29-b08e-b866e02fd2b7/b7f700c5-467d-4631-8bf8-ae557bc42526"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 201.93 85.09 0)
 		(unit 1)
@@ -1288,100 +1382,6 @@
 			(project ""
 				(path "/51f244b9-9601-4f29-b08e-b866e02fd2b7/b7f700c5-467d-4631-8bf8-ae557bc42526"
 					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "2025-10-01_18-19-23:BMP581")
-		(at 144.78 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bd0e24ae-b86e-4120-b12a-85792db23c51")
-		(property "Reference" "U8"
-			(at 165.1 68.58 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "BMP581"
-			(at 165.1 71.12 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "bmp581:QFN10_BMP581_BOS"
-			(at 144.78 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "BMP581"
-			(at 144.78 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "daa8f843-1c2c-4564-98bb-c01ea7a0146a")
-		)
-		(pin "4"
-			(uuid "71353564-cdd4-4f6c-8009-e52d42b332e4")
-		)
-		(pin "2"
-			(uuid "7e56ccfa-4eb7-4290-a2d7-d5f1c679932c")
-		)
-		(pin "6"
-			(uuid "17fd66f0-e082-4424-a057-890b9a53b6f9")
-		)
-		(pin "7"
-			(uuid "0bf67f11-b7c2-48b5-8d77-abda2f7ece29")
-		)
-		(pin "8"
-			(uuid "9c92fc07-af90-4691-8319-7f823b1cc8c4")
-		)
-		(pin "9"
-			(uuid "4693299d-4ac7-4ead-b1b0-74a56e102c8f")
-		)
-		(pin "10"
-			(uuid "0bc86d05-a2aa-412b-8a90-fcdab26bae95")
-		)
-		(pin "1"
-			(uuid "358cbda4-7c21-46cf-8f85-981130ccf565")
-		)
-		(pin "3"
-			(uuid "f20bc6d0-1603-4672-ae64-a0fb0febeac8")
-		)
-		(instances
-			(project ""
-				(path "/51f244b9-9601-4f29-b08e-b866e02fd2b7/b7f700c5-467d-4631-8bf8-ae557bc42526"
-					(reference "U8")
 					(unit 1)
 				)
 			)
