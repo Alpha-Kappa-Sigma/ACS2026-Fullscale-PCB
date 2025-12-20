@@ -56,7 +56,7 @@
   "git": {
     "repo_type": "ssh",
     "repo_username": "git",
-    "ssh_key": "/Users/hunterkoch/.ssh/id_rsa"
+    "ssh_key": "C:\\Users\\hschw\\.ssh\\id_rsa"
   },
   "meta": {
     "filename": "ACS Fullscale.kicad_prl",
