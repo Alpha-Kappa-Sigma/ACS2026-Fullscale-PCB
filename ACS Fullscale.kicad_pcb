@@ -14172,7 +14172,7 @@
 	)
 	(gr_circle
 		(center 152.9 95.385)
-		(end 190.365 95.385)
+		(end 228.465 95.385)
 		(stroke
 			(width 0.2)
 			(type solid)
