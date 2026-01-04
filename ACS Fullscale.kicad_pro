@@ -514,7 +514,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.3,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -539,7 +539,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
+        "track_width": 0.8,
         "via_diameter": 0.8,
         "via_drill": 0.4
       }
@@ -755,10 +755,6 @@
     [
       "daa29641-901f-4d39-8cff-2bb5f79509c5",
       "CM5_HighSpeed"
-    ],
-    [
-      "3ddebaf5-7c4f-4c4a-8ad5-8b624f49d510",
-      "PCIe-M2"
     ]
   ],
   "text_variables": {}

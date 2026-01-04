@@ -1574,7 +1574,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ACS_Footprint_Library:CUI_CD-1206-SMT"
+		(property "Footprint" "CD-1206-SMT:CUI_CD-1206-SMT"
 			(at 0 0 0)
 			(effects
 				(font
